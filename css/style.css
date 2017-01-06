@@ -110,8 +110,8 @@ section h2,
 .button-contact:hover,
 .button-contact:active
 {
-    color: #ffc200;
-    border: 2px solid #ffc200;
+    color: #ffd61f;
+    border: 2px solid #ffd61f;
 }
 
 header .profile
@@ -268,7 +268,7 @@ section h2
     height: 100%;
 
     color: #fff;
-    background-color: rgba(255, 190, 0, 0.9);
+    background-color: rgba(255, 214, 31, 0.9);
 }
 #works .works-box a .works-box-inner div
 {
@@ -347,7 +347,6 @@ section h2
     margin-top:50px;
     padding-top: 100px;
     padding-bottom: 150px;
-    background-color: #f0f3f5;
 }
 
 
@@ -401,7 +400,7 @@ section h2
 }
 #contact ul a:hover
 {
-   background-color: #ffc200;
+   background-color: #ffd61f;
 }
 
 /* Footer

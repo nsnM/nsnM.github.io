@@ -137,13 +137,25 @@ header .site-title span
 
     color: #14c0c9;
 }
+
+header .profile-icon
+{
+    margin: 30px auto;
+    -webkit-border-radius: 50%;
+       -moz-border-radius: 50%;
+            border-radius: 50%;
+}
 header .profile-area
 {
     text-align: center;
-    position: relative;
     margin:0px;
+    padding:0;
+    line-height: 0;
+    width:150px;
+    height:150px;
     font-size: 150px;
-    color: #14c0c9;
+    color: #000;
+    background-color: #efefef;
 }
 header p
 {
